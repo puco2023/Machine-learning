@@ -1,13 +1,13 @@
-# 📊 Machine Learning Projects
+# Machine Learning Projects
 
 This repository contains a collection of machine learning projects I developed while learning and experimenting with various algorithms and techniques.
 The projects cover multiple areas including classification, regression, clustering, reinforcement learning, and text processing.
 
 ---
 
-## 📁 Project List
+## Project List
 
-### 🔢 Classical ML Algorithms
+### Classical ML Algorithms
 
 - **LogisticRegressionFromScratch.ipynb**  
   Implementation of logistic regression from scratch without using ML libraries — built entirely from the ground up.
@@ -26,7 +26,7 @@ The projects cover multiple areas including classification, regression, clusteri
 
 ---
 
-### 🧠 Reinforcement Learning
+### Reinforcement Learning
 
 - **FrozenLakeAgent(Slippery=False).ipynb**  
   Q-learning agent for solving the Frozen Lake environment from OpenAI Gym.
@@ -43,14 +43,14 @@ The projects cover multiple areas including classification, regression, clusteri
 
 ---
 
-### 📊 Clustering
+### Clustering
 
 - **clustering.ipynb**  
   Clustering data using KMeans and visualizing the results.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python (NumPy, Pandas, Matplotlib, etc.)
 - scikit-learn

@@ -59,9 +59,9 @@ The projects cover multiple areas including classification, regression, clusteri
 
 ---
 
-## 📌 Notes
+## Notes
 
-📎 All projects are written in Jupyter Notebook format.  
-💡 Intended for learning, skill demonstration, and experimentation.  
-🔧 This repository will be regularly updated with new content.
+All projects are written in Jupyter Notebook format.  
+Intended for learning, skill demonstration, and experimentation.  
+This repository will be regularly updated with new content.
 

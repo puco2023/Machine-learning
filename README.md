@@ -36,7 +36,7 @@ The projects cover multiple areas including classification, regression, clusteri
 
 ---
 
-### 🗣️ Text Processing
+### Text Processing
 
 - **Sentiment_analysis.ipynb**  
   Sentiment analysis of text using neural networks in PyTorch.
